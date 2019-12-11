@@ -4,12 +4,12 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const version = "1.0.1"
+const version = "1.0.2"
 const Timestamp = new Date().getTime();
 
 module.exports = {
   runtimeCompiler: true,
-  publicPath: 'home-blog',
+  publicPath: './',
 
   chainWebpack(config) {
     config.resolve.alias
