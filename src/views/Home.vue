@@ -33,13 +33,13 @@ export default {
         {
           name: "3d音乐播放器",
           time: "2019/7/8",
-          link: "https://dslming.github.io/musicplayer",
+          link: "https://dslming.github.io/musicPlayer",
           mobile: 1
         },
         {
           name: "FF91 汽车",
           time: "2019/10/12",
-          link: "https://dslming.github.io/musicplayer",
+          link: "https://dslming.github.io/ff91",
           mobile: 1
         },
         {
@@ -51,7 +51,7 @@ export default {
         {
           name: "定制衣服",
           time: "2019/12/24",
-          link: "https://dslming.github.io/musicplayer",
+          link: "https://dslming.github.io/clothesdesign",
           mobile: 0
         }
       ]
