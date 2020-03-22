@@ -31,6 +31,12 @@ export default {
       endTime: "2019/12/11",
       expressList: [
         {
+          name: "蜻蜓可视化",
+          time: "2020/3/21",
+          link: "https://dslming.com/resume/DragonFly/index.html",
+          mobile: 1
+        },
+        {
           name: "3d音乐播放器",
           time: "2019/7/8",
           link: "https://dslming.github.io/musicPlayer",
@@ -53,6 +59,11 @@ export default {
           time: "2019/12/24",
           link: "https://dslming.github.io/clothesdesign",
           mobile: 0
+        },
+        {
+          name: "textureDemo",
+          link:
+            "http://dslming.com/learningComputerGraphics/ThreejsLearning/001-textureDemo/index.html"
         }
       ]
     };
